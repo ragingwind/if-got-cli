@@ -2,6 +2,7 @@
 
 > Cli to get/find icons from iconfinder.com
 
+![](http://g.recordit.co/Sac4lWTk2B.gif)
 
 ## Install
 

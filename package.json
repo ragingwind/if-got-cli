@@ -1,6 +1,6 @@
 {
   "name": "if-got-cli",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Cli to get/find icons from iconfinder.com",
   "license": "MIT",
   "repository": "ragingwind/if-got-cli",

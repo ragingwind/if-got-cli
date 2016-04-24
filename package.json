@@ -1,0 +1,43 @@
+{
+  "name": "if-got-cli",
+  "version": "0.0.0",
+  "description": "Cli to get/find icons from iconfinder.com",
+  "license": "MIT",
+  "repository": "ragingwind/if-got-cli",
+  "author": {
+    "name": "ragingwind",
+    "email": "ragingwind@gmail.com",
+    "url": "ragingwind.me"
+  },
+  "bin": {
+    "if-got": "cli.js"
+  },
+  "engines": {
+    "node": ">=0.4"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "cli.js"
+  ],
+  "keywords": [
+    "cli-app",
+    "cli",
+    "iconfinder",
+    "if-got",
+    "icon"
+  ],
+  "dependencies": {
+    "decamelize": "^1.2.0",
+    "execa": "^0.3.0",
+    "got": "^6.3.0",
+    "if-got": "0.0.2",
+    "map-obj": "^1.0.1",
+    "meow": "^3.7.0"
+  },
+  "devDependencies": {
+    "ava": "^0.14.0",
+    "xo": "^0.14.0"
+  }
+}

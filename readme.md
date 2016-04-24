@@ -15,6 +15,10 @@ $ npm install --save if-got-cli
 $ if-got --help
 ```
 
+## Options
+
+--json: Print out query result in JSON or not You will get a list of result in simple text format like HTTP links or names
+
 ## Examples
 
 ```sh
